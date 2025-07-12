@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Dovahzul
 
 # import hextra as module
 module:
@@ -15,6 +15,7 @@ markup:
   # enable hextra syntax highlight
   highlight:
     noClasses: false
+    style: catppuccin-mocha
 
 menu:
   main:
@@ -24,8 +25,8 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Blog
+      url: /blog
       weight: 3
     - name: Search
       weight: 4
@@ -36,21 +37,45 @@ menu:
       url: "https://github.com/imfing/hextra-starter-template"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
+# Displays extra sidebar links for left sidebar
+  sidebar:
+    - name: More
       params:
-        icon: x-twitter
+        type: separator
+      weight: 1
+    - name: "About"
+      pageRef: "/about"
+      weight: 2
+    - name: "Hugo Docs ↗"
+      url: "https://gohugo.io/documentation/"
+      weight: 3
 
+# Displays logo and title
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      link: /
+      width: 40
+      height: 20
 
   footer:
     displayCopyright: false
     displayPoweredBy: true
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+# Parse Git commit
+enableGitInfo: true

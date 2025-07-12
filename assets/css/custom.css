@@ -1,0 +1,204 @@
+/**fonts**/
+/* atkinson-hyperlegible-mono-200 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-200.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-200.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-200italic - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: italic;
+    font-weight: 200;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-200italic.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-200italic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-300 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-300.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-300.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-300italic - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: italic;
+    font-weight: 300;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-300italic.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-300italic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-regular.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-regular.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-italic - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-italic.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-italic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-500.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-500.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-500italic - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: italic;
+    font-weight: 500;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-500italic.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-500italic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-600 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-600.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-600.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-600italic - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: italic;
+    font-weight: 600;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-600italic.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-600italic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-700.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-700.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-700italic - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: italic;
+    font-weight: 700;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-700italic.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-700italic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-800 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-800.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-800.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/* atkinson-hyperlegible-mono-800italic - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Atkinson Hyperlegible Mono';
+    font-style: italic;
+    font-weight: 800;
+    src: url('../fonts/atkinson-hyperlegible-mono-v7-latin-800italic.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../fonts/atkinson-hyperlegible-mono-v7-latin-800italic.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
+/*Obviously redundant, but I'm still figuring out what to
+do about the font lol*/
+:root {
+    font-family: "Atkinson Hyperlegible Mono", monospace, sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+
+
+.content {
+    font-family: "Atkinson Hyperlegible Mono", monospace, sans-serif;
+}
+
+.content code {
+    font-family: "Atkinson Hyperlegible Mono", monospace, sans-serif;
+}
+
+/* Dark mode content font color */
+.content:is(html[class~="dark"] *) {
+    color: rgb(194, 194, 194);
+}

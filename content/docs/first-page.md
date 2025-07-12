@@ -1,9 +1,8 @@
 ---
-title: Demo Page
+title: About My Docs
 type: docs
 prev: /
-next: docs/folder/
+next: docs/blogging/
 ---
 
-A simple demo page.
-
+This section contains links and resources for various topics relevant to the blog content and creation

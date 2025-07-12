@@ -4,6 +4,7 @@ next: first-page
 ---
 
 This is a demo of the theme's documentation layout.
+This boilerplate page will be changed eventually.
 
 ## Hello, World!
 
